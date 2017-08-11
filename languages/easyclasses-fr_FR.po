@@ -1,0 +1,837 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Easy Classes\n"
+"POT-Creation-Date: 2013-10-25 19:00+0100\n"
+"PO-Revision-Date: 2013-10-25 19:30+0100\n"
+"Last-Translator: Melina D. <serenafelis@yahoo.fr>\n"
+"Language-Team: Melina D. <serenafelis@yahoo.fr>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\portfolio\\wp-content\\plugins\\easy-"
+"classes\n"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:37
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:198
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:37
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:198
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:37
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:198
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:37
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:198
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:37
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:198
+msgid "Classes"
+msgstr "Cours"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:38
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:38
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:38
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:38
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:38
+msgid "Class"
+msgstr "Cours"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:53
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:167
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:53
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:167
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:53
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:167
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:53
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:167
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:53
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:167
+msgid "Subject"
+msgstr "Matière"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:65
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:168
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:65
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:168
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:65
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:168
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:65
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:168
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:65
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:168
+msgid "Level"
+msgstr "Niveau"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:77
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:146
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:169
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:77
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:146
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:169
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:77
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:146
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:169
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:77
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:146
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:169
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:77
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:146
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:169
+msgid "Teacher"
+msgstr "Enseignant"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:89
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:170
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:89
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:170
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:89
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:170
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:89
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:170
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:89
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:170
+msgid "Day"
+msgstr "Jour"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:101
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:171
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:101
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:171
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:101
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:171
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:101
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:171
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:101
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:171
+msgid "Starting time"
+msgstr "Heure de début"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:172
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:172
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:172
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:172
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:172
+msgid "Ending time"
+msgstr "Heure de fin"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:125
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:174
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:125
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:174
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:125
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:174
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:125
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:174
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:125
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:174
+msgid "Place"
+msgstr "Lieu"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:137
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:173
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:137
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:173
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:137
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:173
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:137
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:173
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:137
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:173
+msgid "Room"
+msgstr "Salle"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:145
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:145
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:145
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:145
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:145
+msgid "Teachers"
+msgstr "Enseignants"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:229
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:229
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:229
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:229
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:229
+msgid "There is no class registered at the moment."
+msgstr "Il n'y a pas de cours enregistré pour l'instant."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes.php:243
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:461
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:468
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:926
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/easy-classes.php:243
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:286
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:293
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:572
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/easy-classes.php:243
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:305
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:312
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:591
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/easy-classes.php:243
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:461
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:468
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:926
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/easy-classes.php:243
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:461
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:468
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:926
+msgid "Schedule"
+msgstr "Horaires"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:7
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:7
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:7
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:7
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:7
+msgid "You do not have sufficient capability to access this page."
+msgstr "Vous n'avez pas les droits suffisants pour accéder à cette page."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:108
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:108
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:108
+msgid "Order the days in the schedule"
+msgstr "Trier les jours dans le calendrier"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:139
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:937
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:1092
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:612
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:631
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:139
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:937
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:1092
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:139
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:937
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:1092
+msgid "Save"
+msgstr "Enregistrer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:142
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:142
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:142
+msgid "Reset order"
+msgstr "Réinitialiser le tri"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:91
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:110
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:186
+msgid "Monday"
+msgstr "Lundi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:91
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:110
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:186
+msgid "monday"
+msgstr "lundi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:91
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:110
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:186
+msgid "Mon"
+msgstr "Lun"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:91
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:110
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:186
+msgid "mon"
+msgstr "lun"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:91
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:110
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:186
+msgid "Mo"
+msgstr "Lu"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:91
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:110
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:186
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:186
+msgid "mo"
+msgstr "lu"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:92
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:111
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:187
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:92
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:111
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:187
+msgid "tuesday"
+msgstr "mardi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:92
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:111
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:187
+msgid "Tue"
+msgstr "Mar"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:92
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:111
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:187
+msgid "tue"
+msgstr "mar"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:92
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:111
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:187
+msgid "Tu"
+msgstr "Ma"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:92
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:111
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:187
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:187
+msgid "tu"
+msgstr "ma"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:93
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:112
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:188
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:93
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:112
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:188
+msgid "wednesday"
+msgstr "mercredi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:93
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:112
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:188
+msgid "Wed"
+msgstr "Mer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:93
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:112
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:188
+msgid "wed"
+msgstr "mer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:93
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:112
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:188
+msgid "We"
+msgstr "Me"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:93
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:112
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:188
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:188
+msgid "we"
+msgstr "me"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:94
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:189
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:94
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:189
+msgid "thursday"
+msgstr "jeudi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:94
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:189
+msgid "Thu"
+msgstr "Jeu"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:94
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:189
+msgid "thu"
+msgstr "jeu"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:94
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:189
+msgid "Th"
+msgstr "Je"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:94
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:113
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:189
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:189
+msgid "th"
+msgstr "je"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:95
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:114
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:190
+msgid "Friday"
+msgstr "Vendredi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:95
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:114
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:190
+msgid "friday"
+msgstr "vendredi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:95
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:114
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:190
+msgid "Fri"
+msgstr "Ven"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:95
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:114
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:190
+msgid "fri"
+msgstr "ven"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:95
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:114
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:190
+msgid "Fr"
+msgstr "Ve"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:95
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:114
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:190
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:190
+msgid "fr"
+msgstr "ve"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:96
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:115
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:191
+msgid "Saturday"
+msgstr "Samedi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:96
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:115
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:191
+msgid "saturday"
+msgstr "samedi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:96
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:115
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:191
+msgid "Sat"
+msgstr "Sam"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:96
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:115
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:191
+msgid "sat"
+msgstr "sam"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:96
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:115
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:191
+msgid "Sa"
+msgstr "Sa"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:96
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:115
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:191
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:191
+msgid "sa"
+msgstr "sa"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:97
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:116
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:192
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:97
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:116
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:192
+msgid "sunday"
+msgstr "dimanche"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:97
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:116
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:192
+msgid "Sun"
+msgstr "Dim"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:97
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:116
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:192
+msgid "sun"
+msgstr "dim"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:97
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:116
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:192
+msgid "Su"
+msgstr "Di"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:97
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:116
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:192
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:192
+msgid "su"
+msgstr "di"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:690
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:935
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:448
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:578
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:467
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:597
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:690
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:935
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:690
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:935
+msgid "Show colors"
+msgstr "Afficher les couleurs"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:690
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:448
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:467
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:690
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:690
+msgid "Hide colors"
+msgstr "Cacher les couleurs"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:697
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:932
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:697
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:932
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:697
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:932
+msgid "Change the order"
+msgstr "Changer le tri"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:697
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:697
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:697
+msgid "Hide order options"
+msgstr "Cacher les options de tri"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:874
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:465
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:484
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:874
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:874
+msgid "Enter a color name to assign it to the class :"
+msgstr "Entrez le nom de la couleur que vous voulez attribuer au cours :"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:884
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:884
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:884
+msgid "Are you sure the colour you entered is a valid HTML colour ?"
+msgstr "Êtes-vous sûr que la couleur entrée est une couleur HTML valide ?"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:927
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:573
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:592
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:927
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:927
+msgid "Configure a week calendar to display classes schedules."
+msgstr ""
+"Configurez un calendrier de la semaine pour l'affichage des horaires de tous "
+"les cours."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:930
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:930
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:930
+msgid "Days"
+msgstr "Jours"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:931
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:931
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:931
+msgid "You can change the order in which the days appear in the schedule."
+msgstr "Vous pouvez changer l'ordre dans lequel les jours apparaissent"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:933
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:576
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:595
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:933
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:933
+msgid "Colors"
+msgstr "Couleurs"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:934
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:577
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:596
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:934
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:934
+msgid "Click on the square in front of a class to enter the selected color."
+msgstr ""
+"Cliquez sur le carré devant le titre d'un cours afin de rentrer la couleur "
+"choisie."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:1093
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:613
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:632
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:1093
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:1093
+msgid "Generate code"
+msgstr "Générer le code"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/schedule.php:1094
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:614
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:633
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.2/schedule.php:1094
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/trunk/schedule.php:1094
+msgid "Code for displaying the schedule on a page"
+msgstr "Code pour afficher le tableau dans une page"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:465
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:468
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:580
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:484
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:487
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:599
+msgid "white"
+msgstr "blanc"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:471
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:581
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:490
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:600
+msgid "pearl"
+msgstr "perle"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:474
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:582
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:493
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:601
+msgid "grey"
+msgstr "gris"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:477
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:583
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:496
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:602
+msgid "sand"
+msgstr "sable"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:480
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:585
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:499
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:604
+msgid "violet"
+msgstr "violet"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:483
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:586
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:502
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:605
+msgid "purple"
+msgstr "prune"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:486
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:587
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:505
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:606
+msgid "flower"
+msgstr "fleur"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:489
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:588
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:508
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:607
+msgid "rose"
+msgstr "rose"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:492
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:590
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:511
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:609
+msgid "red"
+msgstr "rouge"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:495
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:591
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:514
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:610
+msgid "burgundy"
+msgstr "bordeaux"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:498
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:592
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:517
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:611
+msgid "maroon"
+msgstr "marron"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:501
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:593
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:520
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:612
+msgid "gold"
+msgstr "or"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:504
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:595
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:523
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:614
+msgid "lemon"
+msgstr "citron"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:507
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:596
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:526
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:615
+msgid "yellow"
+msgstr "jaune"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:510
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:597
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:529
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:616
+msgid "orange"
+msgstr "orange"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:513
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:598
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:532
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:617
+msgid "coral"
+msgstr "corail"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:516
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:600
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:535
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:619
+msgid "apple"
+msgstr "pomme"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:519
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:601
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:538
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:620
+msgid "green"
+msgstr "vert"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:522
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:602
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:541
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:621
+msgid "herb"
+msgstr "herbe"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:525
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:603
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:544
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:622
+msgid "grass"
+msgstr "gazon"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:528
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:605
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:547
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:624
+msgid "cyan"
+msgstr "cyan"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:531
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:606
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:550
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:625
+msgid "turquoise"
+msgstr "turquoise"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:534
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:607
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:553
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:626
+msgid "blue"
+msgstr "bleu"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:537
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:608
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:556
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:627
+msgid "deep"
+msgstr "turquin"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.0/schedule.php:541
+#: C:\wamp\www\portfolio\wp-content\plugins\easy-classes/easy-classes/tags/1.1/schedule.php:560
+msgid "Invalid color name, please enter a valid color name"
+msgstr "Couleur invalide, merci de rentrer une couleur valide."
